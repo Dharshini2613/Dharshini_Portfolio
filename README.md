@@ -1,2 +1,2 @@
-# Gopika Sekar Portfolio Website
+# Dharshini Portfolio Website
 
